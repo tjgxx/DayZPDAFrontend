@@ -1,0 +1,14 @@
+[
+    {
+        "message_id": "msg1",
+        "sender_id": "user123",
+        "message_content": "Hello, global chat!",
+        "sent_at": "2024-12-08T13:10:00Z"
+    },
+    {
+        "message_id": "msg2",
+        "sender_id": null,
+        "message_content": "What's up, everyone?",
+        "sent_at": "2024-12-08T13:20:00Z"
+    }
+]
